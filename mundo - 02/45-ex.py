@@ -1,5 +1,5 @@
 print('='*30)
-print('Desafio 45')
+print('Exercicio 45')
 print('''Crie um programa que 
       faça o computador jogar
       Jokenpô com você
